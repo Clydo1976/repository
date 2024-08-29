@@ -1,4 +1,7 @@
-# Home Assistant Community Add-ons
+- Removed some extra delay (+~40.4% faster)
+- Removed '#' from COUNTER.
+- Fixed variable COUNTER printing under the text.
+- Added Delay between each thread to fix text printing errors.6# Home Assistant Community Add-ons
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
